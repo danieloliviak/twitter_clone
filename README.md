@@ -1,5 +1,5 @@
 # twitter_clone
-hi this a app twitter clone for app star correctly you should open your database and
+hi this a app twitter clone for app start correctly you should open your database and
 input the querys that is contained within twitter-clone/querys.
 
 in dir twitter-clone have app, public, vendor, composers and querys.
